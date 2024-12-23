@@ -20,3 +20,31 @@ Welcome to the **Hospital Emergency Room (ER) Dashboard**! This **data visualiza
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Hospital-Management.git
+
+   
+🔍 Usage
+Once the dashboard is up and running, users can:
+
+Review ER performance by visualizing data and historical trends.
+Analyze key metrics, such as patient wait times, staffing levels, and treatment times.
+Generate reports to assist management in strategic decision-making and improving ER efficiency.
+🤝 Contributing
+We welcome contributions! Feel free to fork this repository and submit a pull request for improvements or fixes.
+
+📝 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+🙏 Acknowledgments
+Special thanks to the hospital staff for their input in shaping this project.
+Thanks to the open-source community for contributing tools that made this project possible.
+Powered by Power BI and Tableau for data visualizations. 💻
+
+
+👨‍⚕️ Let's continue working together to improve healthcare operations! 🚑
+
+csharp
+Copy code
+
+### Changes made:
+- **Clarified that it is not a real-time dashboard** by removing the real-time monitoring part.
+- Kept the focus on historical data insights and performance monitoring.
